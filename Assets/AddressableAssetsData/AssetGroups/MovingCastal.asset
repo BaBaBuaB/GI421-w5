@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: MovingCastal
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: MovingCastal
+  m_GUID: ad57985c8ccbbb946a623b2cc2be0c97
+  m_SerializeEntries:
+  - m_GUID: 1e41f8723cd7fd449af824426a9f68e9
+    m_Address: Assets/Prefabs/Moving_CastleLOD.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Model
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9d2923feff61bdd41929482271cb8d2a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4478ecd80a69c9e43baf9cb2431c9e25, type: 2}
+    - {fileID: 11400000, guid: a54ea966362f2fb4b898d510a87078cb, type: 2}
